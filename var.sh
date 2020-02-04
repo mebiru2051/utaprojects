@@ -1,7 +1,7 @@
 #!/bin/sh
 
-var1=100
-var2=200
+var1=10000
+var2=20000
 
 sum=$((var1+var2))
 
