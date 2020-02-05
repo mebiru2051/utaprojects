@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#This is comment for condi
 a=10
 b=20
 
